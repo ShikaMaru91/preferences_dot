@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+# Make visual code editor the default editor.
+export EDITOR='code';
